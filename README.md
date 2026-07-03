@@ -15,6 +15,8 @@ Microsoft Excel: Gestione dati, Pivot Table, Data Cleaning, Data Visualization.
 
 Anteprima:
 
+![Grafico Finale](italy-ev-market-analysis/docs/grafico_previsione.jpg).
+
 ![Grafico Finale](italy-ev-market-analysis/docs/grafico_finale.jpg)
 
 Licenza:
