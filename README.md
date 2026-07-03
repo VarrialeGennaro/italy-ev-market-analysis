@@ -17,5 +17,5 @@ Anteprima
 
 ![Grafico Finale](italy-ev-market-analysis/docs/grafico_finale.jpg)
 
-Licenza
+Licenza:
 Questo progetto è rilasciato sotto licenza MIT.
