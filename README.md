@@ -13,7 +13,7 @@ Visualizzazione: Creazione di Pivot Chart con asse secondario per confrontare vo
 Strumenti utilizzati
 Microsoft Excel: Gestione dati, Pivot Table, Data Cleaning, Data Visualization.
 
-Anteprima
+Anteprima:
 
 ![Grafico Finale](italy-ev-market-analysis/docs/grafico_finale.jpg)
 
